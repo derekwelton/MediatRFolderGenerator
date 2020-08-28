@@ -1,0 +1,10 @@
+using MediatR;
+using FluentValidation;
+
+namespace {NAMESPACENAME}
+{
+    public class {VALIDATORNAME} : AbstractValidator<{REQUESTNAME}>
+    {
+
+    }
+}
